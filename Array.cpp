@@ -12,9 +12,7 @@ string nama[3];
 int main() {
     //menampilkan isi array pada index tertentu
     cout << "tampilkan skor ke 3 = " << skor[2] << endl;
-    //mengisi array pada index tertentu 
-    skor[2] = 100;
-    cout << "tampilkan skor ke 3 =" << skor[2] << endl;
+    
 
     //mengisi array dengan loop for
     for(int n = 0; n < 3; n++){
