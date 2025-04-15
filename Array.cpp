@@ -16,11 +16,7 @@ int main() {
     skor[2] = 100;
     cout << "tampilkan skor ke 3 =" << skor[2] << endl;
 
-    //mengisi array dengan loop for
-    for(int n = 0; n < 3; n++){
-        cout << "nama mahasiswa ke-" << n+1 << endl;
-        cout << "nama mahasiswa = ";
-        cin >> nama[n];
+    
     }
     
     cout << "menampilkan array dengan loop for" << endl;
